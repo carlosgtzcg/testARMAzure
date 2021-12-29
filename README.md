@@ -1,0 +1,2 @@
+# testARMAzure
+ARMAZure
